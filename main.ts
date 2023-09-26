@@ -2,7 +2,7 @@
  *
  * Created by: Sophie
  * Created on: Sep 2023
- * This program ...
+ * This program shows temperature in kelvin
 */
 
 basic.clearScreen()
