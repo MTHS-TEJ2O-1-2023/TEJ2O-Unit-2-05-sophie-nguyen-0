@@ -20,6 +20,6 @@ input.onButtonPressed(Button.A, function () {
   temperature = temperature + 273.15
   temperature = Math.round(temperature)
 
-  //output
+  // output
   basic.showString('The temperature is ' + temperature.toString() + ' K')
 })
